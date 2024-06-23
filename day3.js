@@ -1,3 +1,4 @@
+// pratise for express 
 const express=require('express');
 const Person = require('./Model/person');
 const app= express();
