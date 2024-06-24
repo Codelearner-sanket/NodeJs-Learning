@@ -2,6 +2,7 @@
 
 The Node Hotel application is a comprehensive system built with Node.js using the Express.js framework, and MongoDB as the database. This application efficiently manages information related to staff (persons) and menu items, and provides a set of CRUD (Create, Read, Update, Delete) operations for both.
 
+
 Features
 Person Management: Add, retrieve, update, and delete staff members.
 Menu Management: Add, retrieve, update, and delete menu items.
